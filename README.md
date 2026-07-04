@@ -1,11 +1,9 @@
-# 🏦 PinnacleBankCore
+# 🏦 BANK_MANAGEMENT_SYSTEM
 
-[![Core Java](https://img.shields.io/badge/Core%20Java-17%2B-brightgreen?style=flat-square\&logo=java\&logoColor=white)](https://www.oracle.com/java/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
-
+ 
 ### 🚀 Production-Ready **Core Java Console Banking System** (OOP-Driven Design)
 
-**PinnacleBankCore** is a fully menu-driven **console banking application** developed using **pure Core Java**, demonstrating **enterprise-level OOP principles**, **custom exception handling**, and **clean layered architecture**.
+**BANK_MANAGEMENT_SYSTEM** is a fully menu-driven **console banking application** developed using **pure Core Java**, demonstrating **enterprise-level OOP principles**, **custom exception handling**, and **clean layered architecture**.
 
 > ⚡ **No frameworks. No databases. Pure Core Java fundamentals** — Perfect for **Java interviews**, **OOP mastery**, and **fresher portfolios**.
 
@@ -91,7 +89,7 @@ Interest Rate (%): 6.5
 ## 📁 Project Structure
 
 ```text
-PinnacleBankCore/
+BANK_MANAGEMENT_SYSTEM/
 ├── BankMain.java
 ├── service/
 │   └── BankServices.java
